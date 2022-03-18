@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "stock-photo-food-and-drink-cocktail-alcoholic-beverage-cocktails-cold-beverage-summer-drinks-cocktail-drink-beautiful-beverages-refreshing-drinks-d4e52511-3cc0-47f9-a64a-730d966e1f18.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
